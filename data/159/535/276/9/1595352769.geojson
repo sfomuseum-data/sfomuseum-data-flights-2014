@@ -1,0 +1,76 @@
+{
+  "id": 1595352769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-11-03T21:32:10",
+    "edtf:inception": "2014-11-03~",
+    "flysfo:airline": "CV",
+    "flysfo:date": "2014-11-03",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "CV888",
+    "flysfo:journey": "STR-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,9.204539,48.691025",
+    "geom:latitude": 43.1545075,
+    "geom:longitude": -56.583202,
+    "iata:airline": "CV",
+    "icao:aircraft": "B748",
+    "icao:airline": "CLX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159293239,
+    "sfomuseum:airline_id": 1159284109,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102549047,
+    "sfomuseum:flight_id": "20141103-A-CLX-888",
+    "sfomuseum:flight_number": [
+      "CV888", 
+      "CLX888"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      1159396321, 
+      102527513, 
+      102191575, 
+      1595352769, 
+      85922583, 
+      85688637, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1582851230,
+    "wof:geomhash": "fb08d6a86a7739f5e04da2e5f76c2269",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1595352769,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1595352769,
+    "wof:lastmodified": 1582851230,
+    "wof:name": "CLX888 (STR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2014",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    9.204539, 
+    48.691025
+  ],
+  "geometry": {"coordinates":[[9.204539,48.691025],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

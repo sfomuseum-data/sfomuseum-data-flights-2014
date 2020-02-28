@@ -1,0 +1,76 @@
+{
+  "id": 1595878751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2014-02-04T08:55:35",
+    "edtf:inception": "2014-02-04~",
+    "flysfo:airline": "UA",
+    "flysfo:date": "2014-02-04",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA449",
+    "flysfo:journey": "GDL-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,20.525627,-103.301974,37.617990",
+    "geom:latitude": 29.0718085,
+    "geom:longitude": -112.83645849999999,
+    "iata:airline": "UA",
+    "icao:aircraft": "A320",
+    "icao:airline": "UAL",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159292085,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102536387,
+    "sfomuseum:flight_id": "20140204-A-UAL-449",
+    "sfomuseum:flight_number": [
+      "UA449", 
+      "UAL449"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102191575, 
+      102087579, 
+      1159396321, 
+      102527513, 
+      85922583, 
+      85688637, 
+      85633793, 
+      1595878751
+    ],
+    "wof:country": "US",
+    "wof:created": 1582843664,
+    "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1595878751,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1595878751,
+    "wof:lastmodified": 1582843664,
+    "wof:name": "UAL449 (GDL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2014",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    20.525627, 
+    -103.301974, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-103.301974,20.525627],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
