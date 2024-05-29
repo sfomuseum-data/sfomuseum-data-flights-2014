@@ -2,6 +2,10 @@
   "id": 1611927553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-22",
+    "date:cessation_upper": "2014-05-22",
+    "date:inception_lower": "2014-05-01",
+    "date:inception_upper": "2014-05-31",
     "edtf:cessation": "2014-05-22T10:06:28",
     "edtf:inception": "2014-05-22~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20140522-A-UAL-1218",
     "sfomuseum:flight_number": [
-      "UA1218", 
+      "UA1218",
       "UAL1218"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1611927553, 
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611927553,
-    "wof:lastmodified": 1582846624,
+    "wof:lastmodified": 1717018913,
     "wof:name": "UAL1218 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1612178889,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-08-01",
+    "date:cessation_upper": "2014-08-31",
+    "date:inception_lower": "2014-08-04",
+    "date:inception_upper": "2014-08-04",
     "edtf:cessation": "2014-08-04~",
     "edtf:inception": "2014-08-04T05:52:13",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140804-D-UAL-789",
     "sfomuseum:flight_number": [
-      "UA789", 
+      "UA789",
       "UAL789"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1612178889, 
-      1159396321, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
+      102191575,
+      1159396321,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612178889,
-    "wof:lastmodified": 1582848979,
+    "wof:lastmodified": 1717018926,
     "wof:name": "UAL789 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

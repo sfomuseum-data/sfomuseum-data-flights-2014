@@ -2,6 +2,10 @@
   "id": 1611950959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-01",
+    "date:cessation_upper": "2014-05-31",
+    "date:inception_lower": "2014-05-29",
+    "date:inception_upper": "2014-05-29",
     "edtf:cessation": "2014-05-29~",
     "edtf:inception": "2014-05-29T18:25:22",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140529-D-SWA-182",
     "sfomuseum:flight_number": [
-      "WN182", 
+      "WN182",
       "SWA182"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159396321, 
-      1611950959, 
-      85922583, 
-      85688637, 
-      102087579, 
+      102191575,
+      85633793,
+      1159396321,
+      85922583,
+      85688637,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611950959,
-    "wof:lastmodified": 1582846864,
+    "wof:lastmodified": 1717018914,
     "wof:name": "SWA182 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

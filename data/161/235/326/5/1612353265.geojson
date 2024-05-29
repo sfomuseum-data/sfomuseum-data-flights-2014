@@ -2,6 +2,10 @@
   "id": 1612353265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-01",
+    "date:cessation_upper": "2014-09-30",
+    "date:inception_lower": "2014-09-25",
+    "date:inception_upper": "2014-09-25",
     "edtf:cessation": "2014-09-25~",
     "edtf:inception": "2014-09-25T16:36:44",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140925-D-UAL-1120",
     "sfomuseum:flight_number": [
-      "UA1120", 
+      "UA1120",
       "UAL1120"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      1612353265
+      102527513,
+      85922583,
+      85688637,
+      85633793,
+      1159396321,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582850262,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612353265,
-    "wof:lastmodified": 1582850262,
+    "wof:lastmodified": 1717018932,
     "wof:name": "UAL1120 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

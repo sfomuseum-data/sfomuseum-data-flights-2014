@@ -2,6 +2,10 @@
   "id": 1611841229,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-04-25",
+    "date:cessation_upper": "2014-04-25",
+    "date:inception_lower": "2014-04-01",
+    "date:inception_upper": "2014-04-30",
     "edtf:cessation": "2014-04-25T08:44:43",
     "edtf:inception": "2014-04-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20140425-A-SWA-563",
     "sfomuseum:flight_number": [
-      "WN563", 
+      "WN563",
       "SWA563"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      85922583, 
-      1611841229, 
-      85688637, 
-      102087579, 
-      102527513, 
+      1159396321,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611841229,
-    "wof:lastmodified": 1582845815,
+    "wof:lastmodified": 1717018909,
     "wof:name": "SWA563 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

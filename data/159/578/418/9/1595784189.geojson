@@ -2,6 +2,10 @@
   "id": 1595784189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-01",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-01T15:19:26",
     "edtf:inception": "2014-01-01~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20140101-A-UAL-1563",
     "sfomuseum:flight_number": [
-      "UA1563", 
+      "UA1563",
       "UAL1563"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      1595784189, 
-      85688637, 
+      102191575,
+      102087579,
+      1159396333,
+      102527513,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595784189,
-    "wof:lastmodified": 1582842774,
+    "wof:lastmodified": 1717018952,
     "wof:name": "UAL1563 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

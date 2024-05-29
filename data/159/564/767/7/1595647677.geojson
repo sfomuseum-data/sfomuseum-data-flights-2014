@@ -2,6 +2,10 @@
   "id": 1595647677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-12-01",
+    "date:cessation_upper": "2014-12-31",
+    "date:inception_lower": "2014-12-11",
+    "date:inception_upper": "2014-12-11",
     "edtf:cessation": "2014-12-11~",
     "edtf:inception": "2014-12-11T16:28:33",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141211-D-DAL-869",
     "sfomuseum:flight_number": [
-      "DL869", 
+      "DL869",
       "DAL869"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      102087579, 
-      1595647677, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159396321,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595647677,
-    "wof:lastmodified": 1582852175,
+    "wof:lastmodified": 1717018951,
     "wof:name": "DAL869 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

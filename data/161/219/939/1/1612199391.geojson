@@ -2,6 +2,10 @@
   "id": 1612199391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-08-09",
+    "date:cessation_upper": "2014-08-09",
+    "date:inception_lower": "2014-08-01",
+    "date:inception_upper": "2014-08-31",
     "edtf:cessation": "2014-08-09T21:15:49",
     "edtf:inception": "2014-08-09~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20140809-A-SWA-2770",
     "sfomuseum:flight_number": [
-      "WN2770", 
+      "WN2770",
       "SWA2770"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1612199391, 
-      85688637, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102087579, 
-      102191575, 
+      85688637,
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      102191575,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612199391,
-    "wof:lastmodified": 1582849116,
+    "wof:lastmodified": 1717018926,
     "wof:name": "SWA2770 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

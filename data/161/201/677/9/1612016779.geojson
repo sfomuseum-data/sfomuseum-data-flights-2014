@@ -2,6 +2,10 @@
   "id": 1612016779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-18",
+    "date:cessation_upper": "2014-06-18",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-18T08:14:21",
     "edtf:inception": "2014-06-18~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20140618-A-ASA-311",
     "sfomuseum:flight_number": [
-      "AS311", 
+      "AS311",
       "ASA311"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1612016779, 
-      85922583, 
-      1159396321, 
-      85688637, 
-      85633793, 
-      102527513, 
+      102087579,
+      85922583,
+      1159396321,
+      85688637,
+      85633793,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612016779,
-    "wof:lastmodified": 1582847600,
+    "wof:lastmodified": 1717018917,
     "wof:name": "ASA311 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

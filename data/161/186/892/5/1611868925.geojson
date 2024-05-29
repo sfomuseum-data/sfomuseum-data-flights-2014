@@ -2,6 +2,10 @@
   "id": 1611868925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-04",
+    "date:cessation_upper": "2014-05-04",
+    "date:inception_lower": "2014-05-01",
+    "date:inception_upper": "2014-05-31",
     "edtf:cessation": "2014-05-04T04:36:57",
     "edtf:inception": "2014-05-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20140504-A-UAL-396",
     "sfomuseum:flight_number": [
-      "UA396", 
+      "UA396",
       "UAL396"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159396321, 
-      1611868925, 
-      85688637, 
-      85633793, 
-      102087579, 
+      102527513,
+      102191575,
+      1159396321,
+      85688637,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611868925,
-    "wof:lastmodified": 1582846003,
+    "wof:lastmodified": 1717018913,
     "wof:name": "UAL396 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

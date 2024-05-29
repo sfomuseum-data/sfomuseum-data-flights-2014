@@ -2,6 +2,10 @@
   "id": 1611684721,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-03-03",
+    "date:cessation_upper": "2014-03-03",
+    "date:inception_lower": "2014-03-01",
+    "date:inception_upper": "2014-03-31",
     "edtf:cessation": "2014-03-03T21:51:29",
     "edtf:inception": "2014-03-03~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20140303-A-AAL-1399",
     "sfomuseum:flight_number": [
-      "AA1399", 
+      "AA1399",
       "AAL1399"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      1611684721
+      85633793,
+      102527513,
+      85922583,
+      85688637,
+      1159396321,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582844464,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611684721,
-    "wof:lastmodified": 1582844464,
+    "wof:lastmodified": 1717018903,
     "wof:name": "AAL1399 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

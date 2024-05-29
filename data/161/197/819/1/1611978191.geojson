@@ -2,6 +2,10 @@
   "id": 1611978191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-06",
+    "date:cessation_upper": "2014-06-06",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-06T21:50:31",
     "edtf:inception": "2014-06-06~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530009,
     "sfomuseum:flight_id": "20140606-A-UAL-507",
     "sfomuseum:flight_number": [
-      "UA507", 
+      "UA507",
       "UAL507"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      85688637, 
-      102087579, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1611978191
+      1159396321,
+      102191575,
+      85688637,
+      102087579,
+      85633793,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582847189,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611978191,
-    "wof:lastmodified": 1582847189,
+    "wof:lastmodified": 1717018917,
     "wof:name": "UAL507 (MSY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.982609, 
-    -90.261832, 
+    -122.370943,
+    29.982609,
+    -90.261832,
     37.61799
   ],
   "geometry": {"coordinates":[[-90.261832,29.982609],[-122.370943,37.61799]],"type":"MultiPoint"}

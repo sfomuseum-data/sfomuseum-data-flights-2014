@@ -2,6 +2,10 @@
   "id": 1611971543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-01",
+    "date:cessation_upper": "2014-06-30",
+    "date:inception_lower": "2014-06-04",
+    "date:inception_upper": "2014-06-04",
     "edtf:cessation": "2014-06-04~",
     "edtf:inception": "2014-06-04T23:03:09",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140604-D-UAL-254",
     "sfomuseum:flight_number": [
-      "UA254", 
+      "UA254",
       "UAL254"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1159396321, 
-      1611971543, 
-      85633793, 
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      1159396321,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611971543,
-    "wof:lastmodified": 1582847104,
+    "wof:lastmodified": 1717018914,
     "wof:name": "UAL254 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}

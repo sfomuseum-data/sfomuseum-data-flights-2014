@@ -2,6 +2,10 @@
   "id": 1612260827,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-08-27",
+    "date:cessation_upper": "2014-08-27",
+    "date:inception_lower": "2014-08-01",
+    "date:inception_upper": "2014-08-31",
     "edtf:cessation": "2014-08-27T20:57:53",
     "edtf:inception": "2014-08-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20140827-A-UAL-868",
     "sfomuseum:flight_number": [
-      "UA868", 
+      "UA868",
       "UAL868"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      1612260827, 
-      85922583, 
-      85633793, 
-      102191575, 
-      102087579, 
-      85688637, 
+      1159396321,
+      85922583,
+      85633793,
+      102191575,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612260827,
-    "wof:lastmodified": 1582849558,
+    "wof:lastmodified": 1717018926,
     "wof:name": "UAL868 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

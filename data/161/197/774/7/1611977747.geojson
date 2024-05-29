@@ -2,6 +2,10 @@
   "id": 1611977747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-06",
+    "date:cessation_upper": "2014-06-06",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-06T19:36:29",
     "edtf:inception": "2014-06-06~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20140606-A-UAL-368",
     "sfomuseum:flight_number": [
-      "UA368", 
+      "UA368",
       "UAL368"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396321, 
-      85922583, 
-      102087579, 
-      1611977747, 
+      102527513,
+      102191575,
+      85633793,
+      1159396321,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611977747,
-    "wof:lastmodified": 1582847183,
+    "wof:lastmodified": 1717018917,
     "wof:name": "UAL368 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1611972145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-05",
+    "date:cessation_upper": "2014-06-05",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-05T07:54:31",
     "edtf:inception": "2014-06-05~",
     "flysfo:airline": "AM",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536381,
     "sfomuseum:flight_id": "20140605-A-AMX-616",
     "sfomuseum:flight_number": [
-      "AM616", 
+      "AM616",
       "AMX616"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1611972145, 
-      102191575, 
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      102191575,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611972145,
-    "wof:lastmodified": 1582847113,
+    "wof:lastmodified": 1717018914,
     "wof:name": "AMX616 (MLM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.849722, 
-    -101.025278, 
+    -122.370943,
+    19.849722,
+    -101.025278,
     37.61799
   ],
   "geometry": {"coordinates":[[-101.025278,19.849722],[-122.370943,37.61799]],"type":"MultiPoint"}

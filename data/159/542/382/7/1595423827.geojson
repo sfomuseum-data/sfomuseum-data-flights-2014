@@ -2,6 +2,10 @@
   "id": 1595423827,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-05",
+    "date:cessation_upper": "2014-06-05",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-05T06:03:43",
     "edtf:inception": "2014-06-05~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20140605-A-UAL-2075",
     "sfomuseum:flight_number": [
-      "UA2075", 
+      "UA2075",
       "UAL2075"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1595423827
+      1159396321,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582847107,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595423827,
-    "wof:lastmodified": 1582847107,
+    "wof:lastmodified": 1717018941,
     "wof:name": "UAL2075 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

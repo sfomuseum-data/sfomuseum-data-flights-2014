@@ -2,6 +2,10 @@
   "id": 1595654269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-12-13",
+    "date:cessation_upper": "2014-12-13",
+    "date:inception_lower": "2014-12-01",
+    "date:inception_upper": "2014-12-31",
     "edtf:cessation": "2014-12-13T19:21:21",
     "edtf:inception": "2014-12-13~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20141213-A-SWA-2002",
     "sfomuseum:flight_number": [
-      "WN2002", 
+      "WN2002",
       "SWA2002"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1595654269, 
-      85922583, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      102527513, 
+      102087579,
+      85922583,
+      85633793,
+      1159396321,
+      102191575,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595654269,
-    "wof:lastmodified": 1582852223,
+    "wof:lastmodified": 1717018949,
     "wof:name": "SWA2002 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

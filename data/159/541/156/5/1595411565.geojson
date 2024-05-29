@@ -2,6 +2,10 @@
   "id": 1595411565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-04-27",
+    "date:cessation_upper": "2014-04-27",
+    "date:inception_lower": "2014-04-01",
+    "date:inception_upper": "2014-04-30",
     "edtf:cessation": "2014-04-27T21:25:01",
     "edtf:inception": "2014-04-27~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20140427-A-AWE-705",
     "sfomuseum:flight_number": [
-      "HP705", 
+      "HP705",
       "AWE705"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      1159396321, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1595411565
+      85633793,
+      102191575,
+      1159396321,
+      102087579,
+      85922583,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582845859,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595411565,
-    "wof:lastmodified": 1582845859,
+    "wof:lastmodified": 1717018940,
     "wof:name": "AWE705 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

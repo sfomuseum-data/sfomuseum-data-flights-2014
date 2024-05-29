@@ -2,6 +2,10 @@
   "id": 1612357661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-26",
+    "date:cessation_upper": "2014-09-26",
+    "date:inception_lower": "2014-09-01",
+    "date:inception_upper": "2014-09-30",
     "edtf:cessation": "2014-09-26T23:03:48",
     "edtf:inception": "2014-09-26~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20140926-A-DAL-1649",
     "sfomuseum:flight_number": [
-      "DL1649", 
+      "DL1649",
       "DAL1649"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1612357661, 
-      85922583, 
-      85688637, 
+      1159396321,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612357661,
-    "wof:lastmodified": 1582850294,
+    "wof:lastmodified": 1717018933,
     "wof:name": "DAL1649 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

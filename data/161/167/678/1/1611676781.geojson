@@ -2,6 +2,10 @@
   "id": 1611676781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-03-01",
+    "date:cessation_upper": "2014-03-01",
+    "date:inception_lower": "2014-03-01",
+    "date:inception_upper": "2014-03-31",
     "edtf:cessation": "2014-03-01T01:18:01",
     "edtf:inception": "2014-03-01~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20140301-A-SWA-523",
     "sfomuseum:flight_number": [
-      "WN523", 
+      "WN523",
       "SWA523"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1611676781, 
-      85922583, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102527513, 
+      102087579,
+      85922583,
+      102191575,
+      85633793,
+      85688637,
+      102527513,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611676781,
-    "wof:lastmodified": 1582844378,
+    "wof:lastmodified": 1717018905,
     "wof:name": "SWA523 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1612275099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-01",
+    "date:cessation_upper": "2014-09-30",
+    "date:inception_lower": "2014-09-01",
+    "date:inception_upper": "2014-09-01",
     "edtf:cessation": "2014-09-01~",
     "edtf:inception": "2014-09-01T12:13:45",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140901-D-AWE-642",
     "sfomuseum:flight_number": [
-      "HP642", 
+      "HP642",
       "AWE642"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159396321, 
-      102191575, 
-      85633793, 
-      1612275099
+      102527513,
+      102087579,
+      85688637,
+      85922583,
+      1159396321,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582849671,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612275099,
-    "wof:lastmodified": 1582849671,
+    "wof:lastmodified": 1717018928,
     "wof:name": "AWE642 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

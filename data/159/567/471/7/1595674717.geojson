@@ -2,6 +2,10 @@
   "id": 1595674717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-12-20",
+    "date:cessation_upper": "2014-12-20",
+    "date:inception_lower": "2014-12-01",
+    "date:inception_upper": "2014-12-31",
     "edtf:cessation": "2014-12-20T13:31:32",
     "edtf:inception": "2014-12-20~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530849,
     "sfomuseum:flight_id": "20141220-A-SWA-4205",
     "sfomuseum:flight_number": [
-      "WN4205", 
+      "WN4205",
       "SWA4205"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1595674717, 
-      1159396321, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
+      85633793,
+      1159396321,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595674717,
-    "wof:lastmodified": 1582852364,
+    "wof:lastmodified": 1717018949,
     "wof:name": "SWA4205 (MKE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}

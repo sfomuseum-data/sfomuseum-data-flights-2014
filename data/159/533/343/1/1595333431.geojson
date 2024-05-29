@@ -2,6 +2,10 @@
   "id": 1595333431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-03-06",
+    "date:cessation_upper": "2014-03-06",
+    "date:inception_lower": "2014-03-01",
+    "date:inception_upper": "2014-03-31",
     "edtf:cessation": "2014-03-06T09:18:58",
     "edtf:inception": "2014-03-06~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20140306-A-SWA-1368",
     "sfomuseum:flight_number": [
-      "WN1368", 
+      "WN1368",
       "SWA1368"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1159396321, 
-      1595333431
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582844536,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595333431,
-    "wof:lastmodified": 1582844536,
+    "wof:lastmodified": 1717018935,
     "wof:name": "SWA1368 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

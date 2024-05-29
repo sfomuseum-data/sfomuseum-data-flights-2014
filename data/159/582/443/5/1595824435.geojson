@@ -2,6 +2,10 @@
   "id": 1595824435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-15",
+    "date:inception_upper": "2014-01-15",
     "edtf:cessation": "2014-01-15~",
     "edtf:inception": "2014-01-15T15:27:54",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140115-D-UAL-552",
     "sfomuseum:flight_number": [
-      "UA552", 
+      "UA552",
       "UAL552"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      102191575, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1595824435
+      1159396333,
+      85633793,
+      102191575,
+      85922583,
+      85688637,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582843162,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595824435,
-    "wof:lastmodified": 1582843162,
+    "wof:lastmodified": 1717018954,
     "wof:name": "UAL552 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

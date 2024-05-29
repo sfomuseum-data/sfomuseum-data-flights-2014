@@ -2,6 +2,10 @@
   "id": 1611958697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-01",
+    "date:cessation_upper": "2014-06-01",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-01T08:44:47",
     "edtf:inception": "2014-06-01~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532047,
     "sfomuseum:flight_id": "20140601-A-UAL-1130",
     "sfomuseum:flight_number": [
-      "UA1130", 
+      "UA1130",
       "UAL1130"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      102087579, 
-      85633793, 
-      102191575, 
-      1611958697
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
+      102087579,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582846948,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611958697,
-    "wof:lastmodified": 1582846948,
+    "wof:lastmodified": 1717018917,
     "wof:name": "UAL1130 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-76.67107,39.181319],[-122.370943,37.61799]],"type":"MultiPoint"}

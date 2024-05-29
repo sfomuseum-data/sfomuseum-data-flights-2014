@@ -2,6 +2,10 @@
   "id": 1595804243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-08",
+    "date:cessation_upper": "2014-01-08",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-08T13:26:48",
     "edtf:inception": "2014-01-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102544459,
     "sfomuseum:flight_id": "20140108-A-UAL-991",
     "sfomuseum:flight_number": [
-      "UA991", 
+      "UA991",
       "UAL991"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1595804243
+      1159396333,
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582842958,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595804243,
-    "wof:lastmodified": 1582842958,
+    "wof:lastmodified": 1717018954,
     "wof:name": "UAL991 (CDG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.542809, 
+    -122.370943,
+    37.61799,
+    2.542809,
     49.007854
   ],
   "geometry": {"coordinates":[[2.542809,49.007854],[-122.370943,37.61799]],"type":"MultiPoint"}

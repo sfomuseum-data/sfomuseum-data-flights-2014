@@ -2,6 +2,10 @@
   "id": 1595558931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-11-01",
+    "date:cessation_upper": "2014-11-30",
+    "date:inception_lower": "2014-11-12",
+    "date:inception_upper": "2014-11-12",
     "edtf:cessation": "2014-11-12~",
     "edtf:inception": "2014-11-12T12:06:19",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141112-D-UAL-1601",
     "sfomuseum:flight_number": [
-      "UA1601", 
+      "UA1601",
       "UAL1601"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      1595558931
+      102191575,
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582851430,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595558931,
-    "wof:lastmodified": 1582851430,
+    "wof:lastmodified": 1717018926,
     "wof:name": "UAL1601 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

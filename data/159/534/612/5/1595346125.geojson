@@ -2,6 +2,10 @@
   "id": 1595346125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-01",
+    "date:cessation_upper": "2014-10-31",
+    "date:inception_lower": "2014-10-08",
+    "date:inception_upper": "2014-10-08",
     "edtf:cessation": "2014-10-08~",
     "edtf:inception": "2014-10-08T16:39:28",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141008-D-UAL-1484",
     "sfomuseum:flight_number": [
-      "UA1484", 
+      "UA1484",
       "UAL1484"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1595346125, 
+      1159396321,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595346125,
-    "wof:lastmodified": 1582850586,
+    "wof:lastmodified": 1717018938,
     "wof:name": "UAL1484 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

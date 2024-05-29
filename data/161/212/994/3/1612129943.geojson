@@ -2,6 +2,10 @@
   "id": 1612129943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-07-01",
+    "date:cessation_upper": "2014-07-31",
+    "date:inception_lower": "2014-07-20",
+    "date:inception_upper": "2014-07-20",
     "edtf:cessation": "2014-07-20~",
     "edtf:inception": "2014-07-20T23:04:11",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140720-D-UAL-1685",
     "sfomuseum:flight_number": [
-      "UA1685", 
+      "UA1685",
       "UAL1685"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1612129943, 
-      85922583, 
-      1159396321, 
-      85688637, 
-      102191575, 
-      102087579, 
+      102527513,
+      85922583,
+      1159396321,
+      85688637,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612129943,
-    "wof:lastmodified": 1582848609,
+    "wof:lastmodified": 1717018926,
     "wof:name": "UAL1685 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

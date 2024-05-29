@@ -2,6 +2,10 @@
   "id": 1595842681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-22",
+    "date:cessation_upper": "2014-01-22",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-22T09:00:53",
     "edtf:inception": "2014-01-22~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550331,
     "sfomuseum:flight_id": "20140122-A-UAL-858",
     "sfomuseum:flight_number": [
-      "UA858", 
+      "UA858",
       "UAL858"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85688637, 
-      1595842681, 
-      1159396333, 
+      85922583,
+      85633793,
+      102087579,
+      102527513,
+      85688637,
+      1159396333,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595842681,
-    "wof:lastmodified": 1582843330,
+    "wof:lastmodified": 1717018953,
     "wof:name": "UAL858 (PVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    31.145312, 
-    121.799307, 
+    -122.370943,
+    31.145312,
+    121.799307,
     37.61799
   ],
   "geometry": {"coordinates":[[121.799307,31.145312],[-122.370943,37.61799]],"type":"MultiPoint"}

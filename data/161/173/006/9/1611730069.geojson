@@ -2,6 +2,10 @@
   "id": 1611730069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-03-01",
+    "date:cessation_upper": "2014-03-31",
+    "date:inception_lower": "2014-03-19",
+    "date:inception_upper": "2014-03-19",
     "edtf:cessation": "2014-03-19~",
     "edtf:inception": "2014-03-19T12:52:51",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140319-D-AAL-931",
     "sfomuseum:flight_number": [
-      "AA931", 
+      "AA931",
       "AAL931"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1611730069
+      85688637,
+      85922583,
+      1159396321,
+      85633793,
+      102191575,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582845001,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611730069,
-    "wof:lastmodified": 1582845001,
+    "wof:lastmodified": 1717018902,
     "wof:name": "AAL931 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}

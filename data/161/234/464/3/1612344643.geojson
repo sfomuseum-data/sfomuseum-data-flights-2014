@@ -2,6 +2,10 @@
   "id": 1612344643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-22",
+    "date:cessation_upper": "2014-09-22",
+    "date:inception_lower": "2014-09-01",
+    "date:inception_upper": "2014-09-30",
     "edtf:cessation": "2014-09-22T22:35:25",
     "edtf:inception": "2014-09-22~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20140922-A-UAL-1592",
     "sfomuseum:flight_number": [
-      "UA1592", 
+      "UA1592",
       "UAL1592"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159396321, 
-      85633793, 
-      1612344643, 
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      1159396321,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612344643,
-    "wof:lastmodified": 1582850201,
+    "wof:lastmodified": 1717018932,
     "wof:name": "UAL1592 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

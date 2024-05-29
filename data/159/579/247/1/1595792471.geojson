@@ -2,6 +2,10 @@
   "id": 1595792471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-04",
+    "date:cessation_upper": "2014-01-04",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-04T11:11:00",
     "edtf:inception": "2014-01-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20140104-A-UAL-172A",
     "sfomuseum:flight_number": [
-      "UA172A", 
+      "UA172A",
       "UAL172A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      85633793, 
-      1595792471, 
-      1159396333, 
-      102527513, 
-      102087579, 
+      85688637,
+      85922583,
+      85633793,
+      1159396333,
+      102527513,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595792471,
-    "wof:lastmodified": 1582842850,
+    "wof:lastmodified": 1717018953,
     "wof:name": "UAL172A (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

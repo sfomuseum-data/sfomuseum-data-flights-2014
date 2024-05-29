@@ -2,6 +2,10 @@
   "id": 1595854421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-26",
+    "date:inception_upper": "2014-01-26",
     "edtf:cessation": "2014-01-26~",
     "edtf:inception": "2014-01-26T13:05:04",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140126-D-SWA-837",
     "sfomuseum:flight_number": [
-      "WN837", 
+      "WN837",
       "SWA837"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      85633793, 
-      85688637, 
-      1595854421, 
-      85922583, 
-      102527513, 
-      102191575, 
+      1159396333,
+      85633793,
+      85688637,
+      85922583,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595854421,
-    "wof:lastmodified": 1582843434,
+    "wof:lastmodified": 1717018955,
     "wof:name": "SWA837 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1611675433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-28",
+    "date:cessation_upper": "2014-02-28",
+    "date:inception_lower": "2014-02-01",
+    "date:inception_upper": "2014-02-28",
     "edtf:cessation": "2014-02-28T14:24:13",
     "edtf:inception": "2014-02-28~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20140228-A-SWA-444",
     "sfomuseum:flight_number": [
-      "WN444", 
+      "WN444",
       "SWA444"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1611675433, 
-      102527513, 
-      85633793, 
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      102527513,
+      85633793,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611675433,
-    "wof:lastmodified": 1582844359,
+    "wof:lastmodified": 1717018904,
     "wof:name": "SWA444 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

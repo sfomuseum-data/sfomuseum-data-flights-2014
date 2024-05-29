@@ -2,6 +2,10 @@
   "id": 1612386227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-01",
+    "date:cessation_upper": "2014-10-31",
+    "date:inception_lower": "2014-10-05",
+    "date:inception_upper": "2014-10-05",
     "edtf:cessation": "2014-10-05~",
     "edtf:inception": "2014-10-05T21:47:09",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141005-D-VRD-8847",
     "sfomuseum:flight_number": [
-      "VX8847", 
+      "VX8847",
       "VRD8847"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1612386227, 
-      1159396321, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
+      1159396321,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612386227,
-    "wof:lastmodified": 1582850516,
+    "wof:lastmodified": 1717018937,
     "wof:name": "VRD8847 (SFO-SBD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.104408, 
-    -117.245887, 
+    -122.370943,
+    34.104408,
+    -117.245887,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.245887,34.104408]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1612050135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-01",
+    "date:cessation_upper": "2014-06-30",
+    "date:inception_lower": "2014-06-27",
+    "date:inception_upper": "2014-06-27",
     "edtf:cessation": "2014-06-27~",
     "edtf:inception": "2014-06-27T18:01:38",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140627-D-DAL-2535",
     "sfomuseum:flight_number": [
-      "DL2535", 
+      "DL2535",
       "DAL2535"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      1612050135
+      102191575,
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582847909,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612050135,
-    "wof:lastmodified": 1582847909,
+    "wof:lastmodified": 1717018917,
     "wof:name": "DAL2535 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

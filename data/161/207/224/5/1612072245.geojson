@@ -2,6 +2,10 @@
   "id": 1612072245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-07-04",
+    "date:cessation_upper": "2014-07-04",
+    "date:inception_lower": "2014-07-01",
+    "date:inception_upper": "2014-07-31",
     "edtf:cessation": "2014-07-04T08:44:23",
     "edtf:inception": "2014-07-04~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20140704-A-UAL-445K",
     "sfomuseum:flight_number": [
-      "UA445K", 
+      "UA445K",
       "UAL445K"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      85633793, 
-      102191575, 
-      85922583, 
-      1612072245
+      102087579,
+      85688637,
+      1159396321,
+      102527513,
+      85633793,
+      102191575,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582848146,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612072245,
-    "wof:lastmodified": 1582848146,
+    "wof:lastmodified": 1717018918,
     "wof:name": "UAL445K (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

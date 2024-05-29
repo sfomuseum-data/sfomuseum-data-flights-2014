@@ -2,6 +2,10 @@
   "id": 1595795699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-05",
+    "date:cessation_upper": "2014-01-05",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-05T13:33:19",
     "edtf:inception": "2014-01-05~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20140105-A-SWA-423",
     "sfomuseum:flight_number": [
-      "WN423", 
+      "WN423",
       "SWA423"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1595795699, 
-      1159396333, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
+      1159396333,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595795699,
-    "wof:lastmodified": 1582842880,
+    "wof:lastmodified": 1717018955,
     "wof:name": "SWA423 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

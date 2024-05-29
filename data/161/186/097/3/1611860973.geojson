@@ -2,6 +2,10 @@
   "id": 1611860973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-01",
+    "date:cessation_upper": "2014-05-31",
+    "date:inception_lower": "2014-05-01",
+    "date:inception_upper": "2014-05-01",
     "edtf:cessation": "2014-05-01~",
     "edtf:inception": "2014-05-01T13:46:41",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140501-D-AWE-653",
     "sfomuseum:flight_number": [
-      "HP653", 
+      "HP653",
       "AWE653"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      1611860973, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85688637, 
-      85922583, 
+      1159396321,
+      85633793,
+      102527513,
+      102087579,
+      85688637,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611860973,
-    "wof:lastmodified": 1582845929,
+    "wof:lastmodified": 1717018909,
     "wof:name": "AWE653 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

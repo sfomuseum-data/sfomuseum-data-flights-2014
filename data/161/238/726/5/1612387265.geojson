@@ -2,6 +2,10 @@
   "id": 1612387265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-06",
+    "date:cessation_upper": "2014-10-06",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-06T09:35:01",
     "edtf:inception": "2014-10-06~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20141006-A-UAL-1534",
     "sfomuseum:flight_number": [
-      "UA1534", 
+      "UA1534",
       "UAL1534"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1159396321, 
-      85922583, 
-      85688637, 
-      1612387265
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      1159396321,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582850523,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612387265,
-    "wof:lastmodified": 1582850523,
+    "wof:lastmodified": 1717018938,
     "wof:name": "UAL1534 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

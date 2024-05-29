@@ -2,6 +2,10 @@
   "id": 1612407229,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-12",
+    "date:cessation_upper": "2014-10-12",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-12T12:02:59",
     "edtf:inception": "2014-10-12~",
     "flysfo:airline": "SQ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20141012-A-SIA-16",
     "sfomuseum:flight_number": [
-      "SQ16", 
+      "SQ16",
       "SIA16"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1612407229
+      1159396321,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582850678,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612407229,
-    "wof:lastmodified": 1582850678,
+    "wof:lastmodified": 1717018938,
     "wof:name": "SIA16 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

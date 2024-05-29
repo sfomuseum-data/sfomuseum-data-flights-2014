@@ -2,6 +2,10 @@
   "id": 1595870205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-31",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-31~",
     "edtf:inception": "2014-01-31T22:07:40",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140131-D-VRD-6904",
     "sfomuseum:flight_number": [
-      "VX6904", 
+      "VX6904",
       "VRD6904"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      1595870205, 
-      102527513, 
-      85688637, 
-      85922583, 
-      102087579, 
+      1159396321,
+      85633793,
+      102527513,
+      85688637,
+      85922583,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595870205,
-    "wof:lastmodified": 1582843574,
+    "wof:lastmodified": 1717018952,
     "wof:name": "VRD6904 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.589912, 
+    -122.370943,
+    37.61799,
+    -121.589912,
     38.685533
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-121.589912,38.685533]],"type":"MultiPoint"}

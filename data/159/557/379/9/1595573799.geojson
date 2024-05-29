@@ -2,6 +2,10 @@
   "id": 1595573799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-11-17",
+    "date:cessation_upper": "2014-11-17",
+    "date:inception_lower": "2014-11-01",
+    "date:inception_upper": "2014-11-30",
     "edtf:cessation": "2014-11-17T08:56:09",
     "edtf:inception": "2014-11-17~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20141117-A-SWA-1361",
     "sfomuseum:flight_number": [
-      "WN1361", 
+      "WN1361",
       "SWA1361"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      102527513, 
-      85922583, 
-      1159396321, 
-      1595573799
+      102191575,
+      85633793,
+      85688637,
+      102087579,
+      102527513,
+      85922583,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582851550,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595573799,
-    "wof:lastmodified": 1582851550,
+    "wof:lastmodified": 1717018932,
     "wof:name": "SWA1361 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

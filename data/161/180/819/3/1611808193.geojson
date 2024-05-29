@@ -2,6 +2,10 @@
   "id": 1611808193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-04-14",
+    "date:cessation_upper": "2014-04-14",
+    "date:inception_lower": "2014-04-01",
+    "date:inception_upper": "2014-04-30",
     "edtf:cessation": "2014-04-14T17:28:10",
     "edtf:inception": "2014-04-14~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20140414-A-UAL-868",
     "sfomuseum:flight_number": [
-      "UA868", 
+      "UA868",
       "UAL868"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      85922583, 
-      102191575, 
-      1611808193
+      102087579,
+      85688637,
+      102527513,
+      85633793,
+      1159396321,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582845632,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611808193,
-    "wof:lastmodified": 1582845632,
+    "wof:lastmodified": 1717018909,
     "wof:name": "UAL868 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

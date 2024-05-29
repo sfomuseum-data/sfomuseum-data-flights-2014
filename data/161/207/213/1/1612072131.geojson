@@ -2,6 +2,10 @@
   "id": 1612072131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-07-04",
+    "date:cessation_upper": "2014-07-04",
+    "date:inception_lower": "2014-07-01",
+    "date:inception_upper": "2014-07-31",
     "edtf:cessation": "2014-07-04T08:09:22",
     "edtf:inception": "2014-07-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528181,
     "sfomuseum:flight_id": "20140704-A-UAL-807",
     "sfomuseum:flight_number": [
-      "UA807", 
+      "UA807",
       "UAL807"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102527513, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      1612072131, 
+      85633793,
+      85688637,
+      102527513,
+      1159396321,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612072131,
-    "wof:lastmodified": 1582848141,
+    "wof:lastmodified": 1717018918,
     "wof:name": "UAL807 (PIT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-80.259551,40.492624],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1612009159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-01",
+    "date:cessation_upper": "2014-06-30",
+    "date:inception_lower": "2014-06-16",
+    "date:inception_upper": "2014-06-16",
     "edtf:cessation": "2014-06-16~",
     "edtf:inception": "2014-06-16T02:19:54",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140616-D-UAL-400",
     "sfomuseum:flight_number": [
-      "UA400", 
+      "UA400",
       "UAL400"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      102527513, 
-      1159396321, 
-      85688637, 
-      85922583, 
-      85633793, 
-      1612009159
+      102191575,
+      102087579,
+      102527513,
+      1159396321,
+      85688637,
+      85922583,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582847526,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612009159,
-    "wof:lastmodified": 1582847526,
+    "wof:lastmodified": 1717018917,
     "wof:name": "UAL400 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

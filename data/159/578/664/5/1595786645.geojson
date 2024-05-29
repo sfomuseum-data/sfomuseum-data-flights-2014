@@ -2,6 +2,10 @@
   "id": 1595786645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-02",
+    "date:inception_upper": "2014-01-02",
     "edtf:cessation": "2014-01-02~",
     "edtf:inception": "2014-01-02T11:31:59",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140102-D-AWE-466",
     "sfomuseum:flight_number": [
-      "HP466", 
+      "HP466",
       "AWE466"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1595786645, 
-      1159396333, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85922583, 
+      85633793,
+      1159396333,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595786645,
-    "wof:lastmodified": 1582842798,
+    "wof:lastmodified": 1717018952,
     "wof:name": "AWE466 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

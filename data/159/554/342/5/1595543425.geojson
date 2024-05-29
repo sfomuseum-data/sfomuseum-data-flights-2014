@@ -2,6 +2,10 @@
   "id": 1595543425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-11-07",
+    "date:cessation_upper": "2014-11-07",
+    "date:inception_lower": "2014-11-01",
+    "date:inception_upper": "2014-11-30",
     "edtf:cessation": "2014-11-07T11:07:49",
     "edtf:inception": "2014-11-07~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528187,
     "sfomuseum:flight_id": "20141107-A-DAL-1894",
     "sfomuseum:flight_number": [
-      "DL1894", 
+      "DL1894",
       "DAL1894"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1595543425, 
-      1159396321, 
-      85633793, 
-      102087579, 
-      102191575, 
+      85922583,
+      85688637,
+      1159396321,
+      85633793,
+      102087579,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595543425,
-    "wof:lastmodified": 1582851314,
+    "wof:lastmodified": 1717018919,
     "wof:name": "DAL1894 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1611782155,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-04-06",
+    "date:cessation_upper": "2014-04-06",
+    "date:inception_lower": "2014-04-01",
+    "date:inception_upper": "2014-04-30",
     "edtf:cessation": "2014-04-06T10:47:48",
     "edtf:inception": "2014-04-06~",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555091,
     "sfomuseum:flight_id": "20140406-A-ACA-737",
     "sfomuseum:flight_number": [
-      "AC737", 
+      "AC737",
       "ACA737"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102191575, 
-      1611782155, 
-      1159396321, 
-      102527513, 
-      102087579, 
+      85922583,
+      85633793,
+      102191575,
+      1159396321,
+      102527513,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611782155,
-    "wof:lastmodified": 1582845428,
+    "wof:lastmodified": 1717018906,
     "wof:name": "ACA737 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}

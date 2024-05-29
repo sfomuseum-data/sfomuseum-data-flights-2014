@@ -2,6 +2,10 @@
   "id": 1595899997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-11",
+    "date:cessation_upper": "2014-02-11",
+    "date:inception_lower": "2014-02-01",
+    "date:inception_upper": "2014-02-28",
     "edtf:cessation": "2014-02-11T22:24:27",
     "edtf:inception": "2014-02-11~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20140211-A-UAL-389",
     "sfomuseum:flight_number": [
-      "UA389", 
+      "UA389",
       "UAL389"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1159396321, 
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1595899997
+      102527513,
+      85688637,
+      1159396321,
+      85633793,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582843864,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595899997,
-    "wof:lastmodified": 1582843864,
+    "wof:lastmodified": 1717018960,
     "wof:name": "UAL389 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

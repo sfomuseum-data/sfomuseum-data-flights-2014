@@ -2,6 +2,10 @@
   "id": 1612005025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-01",
+    "date:cessation_upper": "2014-06-30",
+    "date:inception_lower": "2014-06-14",
+    "date:inception_upper": "2014-06-14",
     "edtf:cessation": "2014-06-14~",
     "edtf:inception": "2014-06-14T20:07:57",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140614-D-SWA-2755",
     "sfomuseum:flight_number": [
-      "WN2755", 
+      "WN2755",
       "SWA2755"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102527513, 
-      85688637, 
-      1159396321, 
-      85922583, 
-      102087579, 
-      1612005025
+      85633793,
+      102191575,
+      102527513,
+      85688637,
+      1159396321,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582847484,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612005025,
-    "wof:lastmodified": 1582847484,
+    "wof:lastmodified": 1717018916,
     "wof:name": "SWA2755 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

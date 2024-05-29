@@ -2,6 +2,10 @@
   "id": 1595581125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-11-19",
+    "date:cessation_upper": "2014-11-19",
+    "date:inception_lower": "2014-11-01",
+    "date:inception_upper": "2014-11-30",
     "edtf:cessation": "2014-11-19T15:10:03",
     "edtf:inception": "2014-11-19~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20141119-A-SWA-3235",
     "sfomuseum:flight_number": [
-      "WN3235", 
+      "WN3235",
       "SWA3235"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396321, 
-      85688637, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1595581125
+      102527513,
+      1159396321,
+      85688637,
+      85922583,
+      85633793,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582851623,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595581125,
-    "wof:lastmodified": 1582851623,
+    "wof:lastmodified": 1717018936,
     "wof:name": "SWA3235 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

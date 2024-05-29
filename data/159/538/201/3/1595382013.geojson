@@ -2,6 +2,10 @@
   "id": 1595382013,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-15",
+    "date:inception_upper": "2014-01-15",
     "edtf:cessation": "2014-01-15~",
     "edtf:inception": "2014-01-15T21:03:12",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140115-D-UAL-6850",
     "sfomuseum:flight_number": [
-      "UA6850", 
+      "UA6850",
       "UAL6850"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1595382013, 
-      102087579, 
-      1159396333, 
-      85688637, 
-      102191575, 
+      85633793,
+      85922583,
+      102087579,
+      1159396333,
+      85688637,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595382013,
-    "wof:lastmodified": 1582843169,
+    "wof:lastmodified": 1717018938,
     "wof:name": "UAL6850 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

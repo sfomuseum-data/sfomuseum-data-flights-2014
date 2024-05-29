@@ -2,6 +2,10 @@
   "id": 1612380619,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-01",
+    "date:cessation_upper": "2014-10-31",
+    "date:inception_lower": "2014-10-04",
+    "date:inception_upper": "2014-10-04",
     "edtf:cessation": "2014-10-04~",
     "edtf:inception": "2014-10-04T00:04:23",
     "flysfo:airline": "FL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141004-D-TRS-636",
     "sfomuseum:flight_number": [
-      "FL636", 
+      "FL636",
       "TRS636"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1612380619, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      102191575, 
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      1159396321,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612380619,
-    "wof:lastmodified": 1582850470,
+    "wof:lastmodified": 1717018934,
     "wof:name": "TRS636 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

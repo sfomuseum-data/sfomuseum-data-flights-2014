@@ -2,6 +2,10 @@
   "id": 1595804735,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-08",
+    "date:cessation_upper": "2014-01-08",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-08T16:15:11",
     "edtf:inception": "2014-01-08~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20140108-A-AAL-323",
     "sfomuseum:flight_number": [
-      "AA323", 
+      "AA323",
       "AAL323"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1595804735, 
-      1159396333, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
+      1159396333,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595804735,
-    "wof:lastmodified": 1582842962,
+    "wof:lastmodified": 1717018954,
     "wof:name": "AAL323 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

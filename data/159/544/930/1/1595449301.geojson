@@ -2,6 +2,10 @@
   "id": 1595449301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-08-17",
+    "date:cessation_upper": "2014-08-17",
+    "date:inception_lower": "2014-08-01",
+    "date:inception_upper": "2014-08-31",
     "edtf:cessation": "2014-08-17T21:41:09",
     "edtf:inception": "2014-08-17~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20140817-A-UAL-2149",
     "sfomuseum:flight_number": [
-      "UA2149", 
+      "UA2149",
       "UAL2149"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      1595449301, 
-      85688637, 
+      1159396321,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595449301,
-    "wof:lastmodified": 1582849315,
+    "wof:lastmodified": 1717018944,
     "wof:name": "UAL2149 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

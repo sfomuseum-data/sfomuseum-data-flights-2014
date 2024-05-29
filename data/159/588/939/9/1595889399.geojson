@@ -2,6 +2,10 @@
   "id": 1595889399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-08",
+    "date:cessation_upper": "2014-02-08",
+    "date:inception_lower": "2014-02-01",
+    "date:inception_upper": "2014-02-28",
     "edtf:cessation": "2014-02-08T01:12:54",
     "edtf:inception": "2014-02-08~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530009,
     "sfomuseum:flight_id": "20140208-A-UAL-595",
     "sfomuseum:flight_number": [
-      "UA595", 
+      "UA595",
       "UAL595"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1595889399, 
+      1159396321,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595889399,
-    "wof:lastmodified": 1582843765,
+    "wof:lastmodified": 1717018957,
     "wof:name": "UAL595 (MSY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.982609, 
-    -90.261832, 
+    -122.370943,
+    29.982609,
+    -90.261832,
     37.61799
   ],
   "geometry": {"coordinates":[[-90.261832,29.982609],[-122.370943,37.61799]],"type":"MultiPoint"}

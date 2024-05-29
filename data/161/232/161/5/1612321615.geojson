@@ -2,6 +2,10 @@
   "id": 1612321615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-15",
+    "date:cessation_upper": "2014-09-15",
+    "date:inception_lower": "2014-09-01",
+    "date:inception_upper": "2014-09-30",
     "edtf:cessation": "2014-09-15T20:17:34",
     "edtf:inception": "2014-09-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20140915-A-UAL-995",
     "sfomuseum:flight_number": [
-      "UA995", 
+      "UA995",
       "UAL995"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1612321615, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612321615,
-    "wof:lastmodified": 1582850031,
+    "wof:lastmodified": 1717018931,
     "wof:name": "UAL995 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

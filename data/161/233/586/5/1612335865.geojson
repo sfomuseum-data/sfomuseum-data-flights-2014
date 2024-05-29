@@ -2,6 +2,10 @@
   "id": 1612335865,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-01",
+    "date:cessation_upper": "2014-09-30",
+    "date:inception_lower": "2014-09-20",
+    "date:inception_upper": "2014-09-20",
     "edtf:cessation": "2014-09-20~",
     "edtf:inception": "2014-09-20T08:12:20",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140920-D-DAL-1866",
     "sfomuseum:flight_number": [
-      "DL1866", 
+      "DL1866",
       "DAL1866"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85688637, 
-      102191575, 
-      102527513, 
-      1612335865, 
-      85633793, 
-      102087579, 
+      1159396321,
+      85688637,
+      102191575,
+      102527513,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612335865,
-    "wof:lastmodified": 1582850136,
+    "wof:lastmodified": 1717018933,
     "wof:name": "DAL1866 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

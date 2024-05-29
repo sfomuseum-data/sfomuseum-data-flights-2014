@@ -2,6 +2,10 @@
   "id": 1595843975,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-22",
+    "date:cessation_upper": "2014-01-22",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-22T16:56:22",
     "edtf:inception": "2014-01-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20140122-A-SWA-1709",
     "sfomuseum:flight_number": [
-      "WN1709", 
+      "WN1709",
       "SWA1709"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159396333, 
-      102527513, 
-      85633793, 
-      1595843975, 
-      85922583, 
+      102191575,
+      102087579,
+      1159396333,
+      102527513,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595843975,
-    "wof:lastmodified": 1582843341,
+    "wof:lastmodified": 1717018954,
     "wof:name": "SWA1709 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

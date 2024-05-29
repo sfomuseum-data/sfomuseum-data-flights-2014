@@ -2,6 +2,10 @@
   "id": 1612117063,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-07-01",
+    "date:cessation_upper": "2014-07-31",
+    "date:inception_lower": "2014-07-17",
+    "date:inception_upper": "2014-07-17",
     "edtf:cessation": "2014-07-17~",
     "edtf:inception": "2014-07-17T08:53:43",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140717-D-UAL-1671",
     "sfomuseum:flight_number": [
-      "UA1671", 
+      "UA1671",
       "UAL1671"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1612117063, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1159396321, 
-      85688637, 
-      102527513, 
+      85633793,
+      102191575,
+      102087579,
+      1159396321,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612117063,
-    "wof:lastmodified": 1582848515,
+    "wof:lastmodified": 1717018924,
     "wof:name": "UAL1671 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

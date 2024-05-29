@@ -2,6 +2,10 @@
   "id": 1612073825,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-07-04",
+    "date:cessation_upper": "2014-07-04",
+    "date:inception_lower": "2014-07-01",
+    "date:inception_upper": "2014-07-31",
     "edtf:cessation": "2014-07-04T17:52:02",
     "edtf:inception": "2014-07-04~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20140704-A-ASA-327",
     "sfomuseum:flight_number": [
-      "AS327", 
+      "AS327",
       "ASA327"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1612073825
+      1159396321,
+      102191575,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582848162,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612073825,
-    "wof:lastmodified": 1582848162,
+    "wof:lastmodified": 1717018919,
     "wof:name": "ASA327 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

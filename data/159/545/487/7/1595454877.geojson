@@ -2,6 +2,10 @@
   "id": 1595454877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-01",
+    "date:cessation_upper": "2014-09-30",
+    "date:inception_lower": "2014-09-03",
+    "date:inception_upper": "2014-09-03",
     "edtf:cessation": "2014-09-03~",
     "edtf:inception": "2014-09-03T18:36:58",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140903-D-UAL-1666",
     "sfomuseum:flight_number": [
-      "UA1666", 
+      "UA1666",
       "UAL1666"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1159396321, 
-      1595454877
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582849734,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595454877,
-    "wof:lastmodified": 1582849734,
+    "wof:lastmodified": 1717018946,
     "wof:name": "UAL1666 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

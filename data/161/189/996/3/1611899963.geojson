@@ -2,6 +2,10 @@
   "id": 1611899963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-01",
+    "date:cessation_upper": "2014-05-31",
+    "date:inception_lower": "2014-05-13",
+    "date:inception_upper": "2014-05-13",
     "edtf:cessation": "2014-05-13~",
     "edtf:inception": "2014-05-13T18:49:02",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140513-D-JBU-6102",
     "sfomuseum:flight_number": [
-      "B66102", 
+      "B66102",
       "JBU6102"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1611899963, 
-      85688637, 
-      102087579, 
+      1159396321,
+      85633793,
+      102527513,
+      102191575,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611899963,
-    "wof:lastmodified": 1582846336,
+    "wof:lastmodified": 1717018913,
     "wof:name": "JBU6102 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.212464,37.72131]],"type":"MultiPoint"}

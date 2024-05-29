@@ -2,6 +2,10 @@
   "id": 1595880545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-04",
+    "date:cessation_upper": "2014-02-04",
+    "date:inception_lower": "2014-02-01",
+    "date:inception_upper": "2014-02-28",
     "edtf:cessation": "2014-02-04T20:36:52",
     "edtf:inception": "2014-02-04~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20140204-A-SWA-370",
     "sfomuseum:flight_number": [
-      "WN370", 
+      "WN370",
       "SWA370"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1595880545, 
-      85633793, 
-      102191575, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
+      85633793,
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595880545,
-    "wof:lastmodified": 1582843680,
+    "wof:lastmodified": 1717018952,
     "wof:name": "SWA370 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

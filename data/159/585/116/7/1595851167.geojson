@@ -2,6 +2,10 @@
   "id": 1595851167,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-25",
+    "date:cessation_upper": "2014-01-25",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-25T07:59:42",
     "edtf:inception": "2014-01-25~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20140125-A-UAL-441",
     "sfomuseum:flight_number": [
-      "UA441", 
+      "UA441",
       "UAL441"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85922583, 
-      1159396333, 
-      102191575, 
-      85633793, 
-      1595851167, 
+      102087579,
+      102527513,
+      85922583,
+      1159396333,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595851167,
-    "wof:lastmodified": 1582843405,
+    "wof:lastmodified": 1717018953,
     "wof:name": "UAL441 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

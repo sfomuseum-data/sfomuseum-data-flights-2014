@@ -2,6 +2,10 @@
   "id": 1612379859,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-03",
+    "date:cessation_upper": "2014-10-03",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-03T19:43:29",
     "edtf:inception": "2014-10-03~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20141003-A-UAL-451",
     "sfomuseum:flight_number": [
-      "UA451", 
+      "UA451",
       "UAL451"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396321, 
-      85633793, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1612379859
+      102087579,
+      1159396321,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582850465,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612379859,
-    "wof:lastmodified": 1582850465,
+    "wof:lastmodified": 1717018935,
     "wof:name": "UAL451 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1595640821,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-12-01",
+    "date:cessation_upper": "2014-12-31",
+    "date:inception_lower": "2014-12-09",
+    "date:inception_upper": "2014-12-09",
     "edtf:cessation": "2014-12-09~",
     "edtf:inception": "2014-12-09T10:12:42",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141209-D-SWA-4015",
     "sfomuseum:flight_number": [
-      "WN4015", 
+      "WN4015",
       "SWA4015"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1595640821, 
+      85688637,
+      85633793,
+      1159396321,
+      102191575,
+      102087579,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595640821,
-    "wof:lastmodified": 1582852119,
+    "wof:lastmodified": 1717018948,
     "wof:name": "SWA4015 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1612006201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-15",
+    "date:cessation_upper": "2014-06-15",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-15T09:59:12",
     "edtf:inception": "2014-06-15~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20140615-A-SWA-4480",
     "sfomuseum:flight_number": [
-      "WN4480", 
+      "WN4480",
       "SWA4480"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1612006201
+      85688637,
+      1159396321,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582847498,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612006201,
-    "wof:lastmodified": 1582847498,
+    "wof:lastmodified": 1717018916,
     "wof:name": "SWA4480 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

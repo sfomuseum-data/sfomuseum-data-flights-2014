@@ -2,6 +2,10 @@
   "id": 1595813257,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-11",
+    "date:cessation_upper": "2014-01-11",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-11T14:25:46",
     "edtf:inception": "2014-01-11~",
     "flysfo:airline": "VS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20140111-A-VIR-19F",
     "sfomuseum:flight_number": [
-      "VS19F", 
+      "VS19F",
       "VIR19F"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1595813257, 
-      85688637, 
-      1159396333, 
-      102191575, 
-      85633793, 
-      85922583, 
+      102087579,
+      85688637,
+      1159396333,
+      102191575,
+      85633793,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595813257,
-    "wof:lastmodified": 1582843041,
+    "wof:lastmodified": 1717018953,
     "wof:name": "VIR19F (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

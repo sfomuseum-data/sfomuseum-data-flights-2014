@@ -2,6 +2,10 @@
   "id": 1595794713,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-05",
+    "date:inception_upper": "2014-01-05",
     "edtf:cessation": "2014-01-05~",
     "edtf:inception": "2014-01-05T07:26:00",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140105-D-VRD-710",
     "sfomuseum:flight_number": [
-      "VX710", 
+      "VX710",
       "VRD710"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1595794713, 
-      85633793, 
-      102191575, 
-      85922583, 
-      1159396333, 
+      102087579,
+      85688637,
+      85633793,
+      102191575,
+      85922583,
+      1159396333,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595794713,
-    "wof:lastmodified": 1582842871,
+    "wof:lastmodified": 1717018954,
     "wof:name": "VRD710 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

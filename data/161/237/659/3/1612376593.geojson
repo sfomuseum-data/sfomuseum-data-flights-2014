@@ -2,6 +2,10 @@
   "id": 1612376593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-02",
+    "date:cessation_upper": "2014-10-02",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-02T20:56:13",
     "edtf:inception": "2014-10-02~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20141002-A-UAL-624",
     "sfomuseum:flight_number": [
-      "UA624", 
+      "UA624",
       "UAL624"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396321, 
-      1612376593
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582850440,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612376593,
-    "wof:lastmodified": 1582850440,
+    "wof:lastmodified": 1717018934,
     "wof:name": "UAL624 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1612319921,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-09-01",
+    "date:cessation_upper": "2014-09-30",
+    "date:inception_lower": "2014-09-15",
+    "date:inception_upper": "2014-09-15",
     "edtf:cessation": "2014-09-15~",
     "edtf:inception": "2014-09-15T11:33:46",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140915-D-SWA-3044",
     "sfomuseum:flight_number": [
-      "WN3044", 
+      "WN3044",
       "SWA3044"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      1612319921
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      85688637,
+      1159396321,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582850017,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612319921,
-    "wof:lastmodified": 1582850017,
+    "wof:lastmodified": 1717018934,
     "wof:name": "SWA3044 (SFO-MKE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.896339,42.949572]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1595500339,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-24",
+    "date:cessation_upper": "2014-10-24",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-24T11:56:06",
     "edtf:inception": "2014-10-24~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20141024-A-JBU-15",
     "sfomuseum:flight_number": [
-      "B615", 
+      "B615",
       "JBU15"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1595500339, 
-      85922583, 
-      1159396321, 
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      1159396321,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595500339,
-    "wof:lastmodified": 1582850982,
+    "wof:lastmodified": 1717018902,
     "wof:name": "JBU15 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

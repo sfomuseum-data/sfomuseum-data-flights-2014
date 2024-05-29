@@ -2,6 +2,10 @@
   "id": 1595835473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-19",
+    "date:cessation_upper": "2014-01-19",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-19T15:11:23",
     "edtf:inception": "2014-01-19~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20140119-A-SWA-1971",
     "sfomuseum:flight_number": [
-      "WN1971", 
+      "WN1971",
       "SWA1971"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      102087579, 
-      85688637, 
-      1595835473, 
-      85922583, 
-      102191575, 
+      1159396333,
+      102527513,
+      102087579,
+      85688637,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595835473,
-    "wof:lastmodified": 1582843263,
+    "wof:lastmodified": 1717018955,
     "wof:name": "SWA1971 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

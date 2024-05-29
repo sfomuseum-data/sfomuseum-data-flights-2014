@@ -2,6 +2,10 @@
   "id": 1612404771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-11",
+    "date:cessation_upper": "2014-10-11",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-11T13:45:06",
     "edtf:inception": "2014-10-11~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20141011-A-ASA-382",
     "sfomuseum:flight_number": [
-      "AS382", 
+      "AS382",
       "ASA382"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1159396321, 
-      85922583, 
-      102087579, 
-      1612404771
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      1159396321,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582850659,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612404771,
-    "wof:lastmodified": 1582850659,
+    "wof:lastmodified": 1717018937,
     "wof:name": "ASA382 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

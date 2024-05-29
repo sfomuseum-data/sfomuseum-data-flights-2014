@@ -2,6 +2,10 @@
   "id": 1595424135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-05",
+    "date:cessation_upper": "2014-06-05",
+    "date:inception_lower": "2014-06-01",
+    "date:inception_upper": "2014-06-30",
     "edtf:cessation": "2014-06-05T22:42:51",
     "edtf:inception": "2014-06-05~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20140605-A-UAL-741",
     "sfomuseum:flight_number": [
-      "UA741", 
+      "UA741",
       "UAL741"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1595424135, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102527513, 
-      85922583, 
-      102087579, 
+      85633793,
+      85688637,
+      102191575,
+      102527513,
+      85922583,
+      102087579,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595424135,
-    "wof:lastmodified": 1582847145,
+    "wof:lastmodified": 1717018941,
     "wof:name": "UAL741 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1595883361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-01",
+    "date:cessation_upper": "2014-02-28",
+    "date:inception_lower": "2014-02-05",
+    "date:inception_upper": "2014-02-05",
     "edtf:cessation": "2014-02-05~",
     "edtf:inception": "2014-02-05T22:50:03",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140205-D-UAL-512",
     "sfomuseum:flight_number": [
-      "UA512", 
+      "UA512",
       "UAL512"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1159396321, 
-      85633793, 
-      1595883361
+      102527513,
+      85688637,
+      102087579,
+      85922583,
+      102191575,
+      1159396321,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582843706,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595883361,
-    "wof:lastmodified": 1582843706,
+    "wof:lastmodified": 1717018954,
     "wof:name": "UAL512 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

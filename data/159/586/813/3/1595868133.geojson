@@ -2,6 +2,10 @@
   "id": 1595868133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-01-31",
+    "date:inception_lower": "2014-01-31",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-31~",
     "edtf:inception": "2014-01-31T09:58:18",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140131-D-UAL-6880",
     "sfomuseum:flight_number": [
-      "UA6880", 
+      "UA6880",
       "UAL6880"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1595868133
+      1159396321,
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582843556,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595868133,
-    "wof:lastmodified": 1582843556,
+    "wof:lastmodified": 1717018956,
     "wof:name": "UAL6880 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1595338231,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-01",
+    "date:cessation_upper": "2014-02-28",
+    "date:inception_lower": "2014-02-03",
+    "date:inception_upper": "2014-02-03",
     "edtf:cessation": "2014-02-03~",
     "edtf:inception": "2014-02-03T16:41:55",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140203-D-VRD-932",
     "sfomuseum:flight_number": [
-      "VX932", 
+      "VX932",
       "VRD932"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396321, 
-      1595338231, 
-      85922583, 
-      85688637, 
+      102527513,
+      85633793,
+      102087579,
+      1159396321,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595338231,
-    "wof:lastmodified": 1582843651,
+    "wof:lastmodified": 1717018937,
     "wof:name": "VRD932 (SFO-EKA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    0, 
-    0, 
+    -122.370943,
+    0,
+    0,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}

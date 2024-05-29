@@ -2,6 +2,10 @@
   "id": 1611779677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-04-01",
+    "date:cessation_upper": "2014-04-30",
+    "date:inception_lower": "2014-04-05",
+    "date:inception_upper": "2014-04-05",
     "edtf:cessation": "2014-04-05~",
     "edtf:inception": "2014-04-05T11:34:06",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140405-D-ASA-244",
     "sfomuseum:flight_number": [
-      "AS244", 
+      "AS244",
       "ASA244"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159396321, 
-      1611779677, 
-      85633793, 
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      1159396321,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611779677,
-    "wof:lastmodified": 1582845410,
+    "wof:lastmodified": 1717018909,
     "wof:name": "ASA244 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

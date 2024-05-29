@@ -2,6 +2,10 @@
   "id": 1595421497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-28",
+    "date:cessation_upper": "2014-05-28",
+    "date:inception_lower": "2014-05-01",
+    "date:inception_upper": "2014-05-31",
     "edtf:cessation": "2014-05-28T21:54:24",
     "edtf:inception": "2014-05-28~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20140528-A-SWA-740",
     "sfomuseum:flight_number": [
-      "WN740", 
+      "WN740",
       "SWA740"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1595421497
+      85688637,
+      1159396321,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582846834,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595421497,
-    "wof:lastmodified": 1582846834,
+    "wof:lastmodified": 1717018940,
     "wof:name": "SWA740 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

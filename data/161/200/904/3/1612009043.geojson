@@ -2,6 +2,10 @@
   "id": 1612009043,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-06-01",
+    "date:cessation_upper": "2014-06-30",
+    "date:inception_lower": "2014-06-16",
+    "date:inception_upper": "2014-06-16",
     "edtf:cessation": "2014-06-16~",
     "edtf:inception": "2014-06-16T00:18:50",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140616-D-UAL-480",
     "sfomuseum:flight_number": [
-      "UA480", 
+      "UA480",
       "UAL480"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1612009043, 
-      85688637, 
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      85922583,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612009043,
-    "wof:lastmodified": 1582847525,
+    "wof:lastmodified": 1717018917,
     "wof:name": "UAL480 (SFO-GDL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.525627, 
-    -103.301974, 
+    -122.370943,
+    20.525627,
+    -103.301974,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-103.301974,20.525627]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1595810969,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-10",
+    "date:cessation_upper": "2014-01-10",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-10T18:04:06",
     "edtf:inception": "2014-01-10~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20140110-A-ASA-235",
     "sfomuseum:flight_number": [
-      "AS235", 
+      "AS235",
       "ASA235"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396333, 
-      102527513, 
-      1595810969
+      85688637,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
+      1159396333,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582843019,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595810969,
-    "wof:lastmodified": 1582843019,
+    "wof:lastmodified": 1717018952,
     "wof:name": "ASA235 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

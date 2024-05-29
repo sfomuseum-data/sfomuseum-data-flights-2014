@@ -2,6 +2,10 @@
   "id": 1611793167,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-04-09",
+    "date:cessation_upper": "2014-04-09",
+    "date:inception_lower": "2014-04-01",
+    "date:inception_upper": "2014-04-30",
     "edtf:cessation": "2014-04-09T19:04:28",
     "edtf:inception": "2014-04-09~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20140409-A-SWA-1805",
     "sfomuseum:flight_number": [
-      "WN1805", 
+      "WN1805",
       "SWA1805"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396321, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1611793167
+      1159396321,
+      85922583,
+      85633793,
+      85688637,
+      102191575,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582845521,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1611793167,
-    "wof:lastmodified": 1582845521,
+    "wof:lastmodified": 1717018907,
     "wof:name": "SWA1805 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

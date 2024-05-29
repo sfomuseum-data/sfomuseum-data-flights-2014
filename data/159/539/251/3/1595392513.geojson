@@ -2,6 +2,10 @@
   "id": 1595392513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-02-22",
+    "date:cessation_upper": "2014-02-22",
+    "date:inception_lower": "2014-02-01",
+    "date:inception_upper": "2014-02-28",
     "edtf:cessation": "2014-02-22T17:05:44",
     "edtf:inception": "2014-02-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20140222-A-SWA-1528",
     "sfomuseum:flight_number": [
-      "WN1528", 
+      "WN1528",
       "SWA1528"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      1159396321, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1595392513, 
+      102087579,
+      102191575,
+      1159396321,
+      85922583,
+      102527513,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595392513,
-    "wof:lastmodified": 1582844174,
+    "wof:lastmodified": 1717018938,
     "wof:name": "SWA1528 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

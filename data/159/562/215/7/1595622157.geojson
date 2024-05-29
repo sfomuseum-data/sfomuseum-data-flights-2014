@@ -2,6 +2,10 @@
   "id": 1595622157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-12-01",
+    "date:cessation_upper": "2014-12-31",
+    "date:inception_lower": "2014-12-03",
+    "date:inception_upper": "2014-12-03",
     "edtf:cessation": "2014-12-03~",
     "edtf:inception": "2014-12-03T06:02:16",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141203-D-UAL-265",
     "sfomuseum:flight_number": [
-      "UA265", 
+      "UA265",
       "UAL265"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      1595622157
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      1159396321
     ],
     "wof:country": "US",
     "wof:created": 1582851972,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595622157,
-    "wof:lastmodified": 1582851972,
+    "wof:lastmodified": 1717018948,
     "wof:name": "UAL265 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1595856369,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-27",
+    "date:cessation_upper": "2014-01-27",
+    "date:inception_lower": "2014-01-01",
+    "date:inception_upper": "2014-01-31",
     "edtf:cessation": "2014-01-27T07:19:25",
     "edtf:inception": "2014-01-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20140127-A-UAL-1679",
     "sfomuseum:flight_number": [
-      "UA1679", 
+      "UA1679",
       "UAL1679"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396333, 
-      102191575, 
-      85688637, 
-      1595856369, 
-      85922583, 
-      102087579, 
-      102527513, 
+      1159396333,
+      102191575,
+      85688637,
+      85922583,
+      102087579,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1595856369,
-    "wof:lastmodified": 1582843450,
+    "wof:lastmodified": 1717018956,
     "wof:name": "UAL1679 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

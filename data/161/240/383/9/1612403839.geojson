@@ -2,6 +2,10 @@
   "id": 1612403839,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-01",
+    "date:cessation_upper": "2014-10-31",
+    "date:inception_lower": "2014-10-11",
+    "date:inception_upper": "2014-10-11",
     "edtf:cessation": "2014-10-11~",
     "edtf:inception": "2014-10-11T08:22:05",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20141011-D-UAL-1760",
     "sfomuseum:flight_number": [
-      "UA1760", 
+      "UA1760",
       "UAL1760"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159396321, 
-      85922583, 
-      102527513, 
-      1612403839, 
-      85688637, 
+      102191575,
+      102087579,
+      1159396321,
+      85922583,
+      102527513,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612403839,
-    "wof:lastmodified": 1582850651,
+    "wof:lastmodified": 1717018936,
     "wof:name": "UAL1760 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

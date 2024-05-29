@@ -2,6 +2,10 @@
   "id": 1612062415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-07-01",
+    "date:cessation_upper": "2014-07-31",
+    "date:inception_lower": "2014-07-01",
+    "date:inception_upper": "2014-07-01",
     "edtf:cessation": "2014-07-01~",
     "edtf:inception": "2014-07-01T11:47:52",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20140701-D-SWA-2052",
     "sfomuseum:flight_number": [
-      "WN2052", 
+      "WN2052",
       "SWA2052"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396321, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1612062415
+      102527513,
+      1159396321,
+      85688637,
+      102191575,
+      102087579,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582848056,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612062415,
-    "wof:lastmodified": 1582848056,
+    "wof:lastmodified": 1717018919,
     "wof:name": "SWA2052 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

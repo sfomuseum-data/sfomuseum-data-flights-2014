@@ -2,6 +2,10 @@
   "id": 1612386031,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-05",
+    "date:cessation_upper": "2014-10-05",
+    "date:inception_lower": "2014-10-01",
+    "date:inception_upper": "2014-10-31",
     "edtf:cessation": "2014-10-05T21:01:28",
     "edtf:inception": "2014-10-05~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20141005-A-SWA-565",
     "sfomuseum:flight_number": [
-      "WN565", 
+      "WN565",
       "SWA565"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1612386031
+      85922583,
+      102527513,
+      85633793,
+      1159396321,
+      102191575,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582850515,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1612386031,
-    "wof:lastmodified": 1582850515,
+    "wof:lastmodified": 1717018937,
     "wof:name": "SWA565 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2014",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
